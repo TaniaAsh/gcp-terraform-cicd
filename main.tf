@@ -17,3 +17,4 @@ resource "google_storage_bucket" "demo" {
   location                    = "EU"
   uniform_bucket_level_access = true
 }
+# test cloud build trigger
